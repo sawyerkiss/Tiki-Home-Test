@@ -29,6 +29,9 @@ Phần nội dung của từ khoá được hiển thị giống như phần n�
 
 ### Yêu cầu:
 
-	- Ứng dụng được viết bằng Swift 4 trên Xcode 9.4
+	- Ứng dụng được viết bằng Swift 4 trên Xcode 9.4.
+	- Tổ chức cấu trúc cho tầng networking.
+	- Dùng CoreData hoặc Realm để lưu lịch sử tìm kiếm.
 	- Ứng viên làm bài và gửi lại link github của project.
 	- UI đẹp và Unit Test là điểm cộng thêm.
+
