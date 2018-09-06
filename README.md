@@ -12,10 +12,11 @@ Dữ liệu từ khoá hot được lấy về từ [https://tiki-mobile.s3-ap-s
 
 	- Padding 2 bên 16px.
 	- Font size 14px.
-Lưu ý phần hiển thị nội dung từ khoá có 3 rules sau:
+Lưu ý phần hiển thị nội dung từ khoá có các rules sau:
 
 	- Nếu nội dung chỉ có 1 từ thì sẽ hiển thị 1 dòng
-	- Nếu nội dung có nhiều hơn 1 từ thì sẽ hiển thị 2 dòng. Nội dung được align center. Cần tính toán chiều rộng của vùng hiển thị nội dung sao cho chiều rộng đó là nhỏ nhất.
+	- Nếu nội dung có nhiều hơn 1 từ thì sẽ hiển thị 2 dòng. Nội dung được align center. 
+	- Cần **tính toán** chiều rộng của vùng hiển thị nội dung sao cho **chiều rộng đó là nhỏ nhất**.
 	- Background color của phần nội dung được lấy theo thứ tự  #16702e, #005a51, #996c00, #5c0a6b, #006d90, #974e06, #99272e, #89221f, #00345d.
 
 #### Lịch sử tìm kiếm
