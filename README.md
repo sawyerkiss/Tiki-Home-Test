@@ -5,7 +5,7 @@ Mô tả màn hình chính của ứng dụng từ khoá hot sẽ gồm có 3 ch
 #### Tìm kiếm
 UI phần tìm kiếm sẽ có 1 search bar để người dùng nhập từ khoá để tìm kiếm, sau khi người dùng nhấn search với từ khoá khác rỗng thì từ khoá vừa được tìm kiếm sẽ được lưu lại và hiển thị ở phần **Lịch sử tìm kiếm**
 #### Từ khoá hot
-![Hot-Keyword-Photo.png](http://sv1.upsieutoc.com/2018/08/12/Hot-Keyword-Photo.png)
+[![Hot-Keyword-Photo.png](https://uphinhnhanh.com/images/2018/10/05/Hot-Keyword-Photo.png)](https://uphinhnhanh.com/image/8KN535)
 
 Dữ liệu từ khoá hot được lấy về từ [https://tiki-mobile.s3-ap-southeast-1.amazonaws.com/ios/keywords.json](https://tiki-mobile.s3-ap-southeast-1.amazonaws.com/ios/keywords.json)
 1 từ khoá hot sẽ có nội dung và hình ảnh được thể hiện giống như UI:
