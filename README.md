@@ -18,7 +18,7 @@ Lưu ý phần hiển thị nội dung từ khoá có các rules sau:
 
 > Nếu nội dung chỉ có 1 từ thì sẽ hiển thị 1 dòng.
 
-> Nếu nội dung có nhiều hơn 1 từ thì sẽ hiển thị 2 dòng. Nội dung được align center. 
+> Nếu nội dung có nhiều hơn 1 từ thì sẽ hiển thị 2 dòng. Nội dung được align center. **Nội dung từ khóa phải hiện thị đầy đủ, không bị truncate**
 
 > Cần **tính toán** chiều rộng của vùng hiển thị nội dung sao cho **chiều rộng đó là nhỏ nhất**.
 
