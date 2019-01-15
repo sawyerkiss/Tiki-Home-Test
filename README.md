@@ -1,7 +1,7 @@
 ### Home test for Candidate
 
 #### Ứng dụng từ khoá hot
-Ứng dụng có một màn hình chính để thể hiện danh sách các từ khóa hot mà user tìm kiếm trên trang web thương mại điện tử Tiki.vn. 
+Ứng dụng có một màn hình chính để thể hiện giả lập danh sách các từ khóa hot mà user tìm kiếm trên trang web thương mại điện tử Tiki.vn. 
 #### Từ khoá hot
 [![Hot-Keyword-Photo.png](https://uphinhnhanh.com/images/2018/10/05/Hot-Keyword-Photo.png)](https://uphinhnhanh.com/image/8KN535)
 
